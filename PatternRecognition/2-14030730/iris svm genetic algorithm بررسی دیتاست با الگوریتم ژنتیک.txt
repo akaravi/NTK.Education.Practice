@@ -1,0 +1,10 @@
+iris svm genetic algorithm بررسی دیتاست با الگوریتم ژنتیک
+
+یوتیوب:
+https://youtu.be/5yNEoHZ8w_c
+
+آپارات
+https://aparat.com/v/sjd1044
+
+Git Source:
+https://github.com/akaravi/NTK.Education.Practice/tree/main/PatternRecognition/GA-iris
