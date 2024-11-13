@@ -23,20 +23,36 @@ function combineBinaryImagesTo8BitImage(imageFiles)
         
         % تبدیل تصویر ۱ بیتی به ۸ بیتی (با استفاده از شیفت)
         combinedImage = bitset(combinedImage, i, binaryImage);
+        pause(1);
+
+
+        % نمایش تصویر ترکیبی
+        imshow(combinedImage);
+        title('در حال تجمیع شدن');
     end
+
 
     % نمایش تصویر ترکیبی
     imshow(combinedImage);
     title('تصویر ۸ بیتی ترکیبی');
     
     % ذخیره تصویر ترکیبی
-    imwrite(combinedImage, 'combinedImage.png');
+    imwrite(combinedImage, 'test_combined_dollar_method2.png');
 end
 % نام فایل‌های تصاویر ۱ بیتی
 imageFiles = {
-    'image1.png', 'image2.png', 'image3.png', 'image4.png', 
-    'image5.png', 'image6.png', 'image7.png', 'image8.png'
+    'pic/test_bit_dollar_0.png',
+    'pic/test_bit_dollar_1.png',
+    'pic/test_bit_dollar_2.png',
+    'pic/test_bit_dollar_3.png', 
+    'pic/test_bit_dollar_4.png',
+    'pic/test_bit_dollar_5.png',
+    'pic/test_bit_dollar_6.png',
+    'pic/test_bit_dollar_7.png'
 };
 
 % فراخوانی تابع
 combineBinaryImagesTo8BitImage(imageFiles);
+% info = imfinfo('pic/test_bit_dollar_0.png')
+% info = imfinfo('pic/test_combined_dollar_1_3_5_7.png')
+% info = imfinfo('pic/test_combined_dollar_6_7_8.png')

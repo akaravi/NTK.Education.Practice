@@ -37,7 +37,7 @@ title('تصویر خاکستری');
 for i = 0:7
     % استخراج بیت i
     bitImage = bitand(I, uint8(2^i)) > 0; % گرفتن بیت i
-    imwrite(bitImage * 255, sprintf('pic/test_bit_dollar_%d.bmp', i)); % ذخیره تصویر یک بیتی
+    imwrite(bitImage , sprintf('pic/test_bit_dollar_%d.png', i)); % ذخیره تصویر یک بیتی
 
     %Step2
     subplot(3, 9, i+10); 
@@ -59,7 +59,7 @@ title('عکس با آرایه صفر'); % عنوان بخش
 cSum='+';
 str_title='';
 for i = 0:7
-    bitImage = imread(sprintf('pic/test_bit_dollar_%d.bmp', i)); % بارگذاری تصویر یک بیتی
+    bitImage = imread(sprintf('pic/test_bit_dollar_%d.png', i)); % بارگذاری تصویر یک بیتی
     combinedImage = combinedImage + bitshift(uint8(bitImage > 0), i); % ترکیب تصاویر
 
     %Step2
@@ -72,12 +72,12 @@ for i = 0:7
 end
 
 % ذخیره تصویر هشت بیتی
-imwrite(combinedImage, 'pic/test_combined_dollar.bmp');
+imwrite(combinedImage, 'pic/test_combined_dollar.png');
 
 
 
 % ردیف اول: نمایش تصویر اصلی
-I = imread('pic/test_combined_dollar.bmp'); 
+I = imread('pic/test_combined_dollar.png'); 
 subplot(3, 9, 27); 
 imshow(I);
 title('تضویر مجموع شده');
@@ -111,7 +111,7 @@ str_title='';
 for i = 0:7
     s=s+1;
     if(i==0 || i==2 || i==4 || i==6)
-        bitImage = imread(sprintf('pic/test_bit_dollar_%d.bmp', i)); % بارگذاری تصویر یک بیتی
+        bitImage = imread(sprintf('pic/test_bit_dollar_%d.png', i)); % بارگذاری تصویر یک بیتی
         combinedImage = combinedImage + bitshift(uint8(bitImage > 0), i); % ترکیب تصاویر
 
         %Step2
@@ -122,14 +122,14 @@ for i = 0:7
         %Step2
     end     
 end
-imwrite(combinedImage, 'pic/test_combined_dollar_1_3_5_7.bmp');
+imwrite(combinedImage, 'pic/test_combined_dollar_1_3_5_7.png');
 %test 2
 combinedImage = zeros(size(I), 'uint8');
 str_title='';
 for i = 0:7
     s=s+1;
     if(i==1 || i==3 || i==5 || i==7)
-        bitImage = imread(sprintf('pic/test_bit_dollar_%d.bmp', i)); % بارگذاری تصویر یک بیتی
+        bitImage = imread(sprintf('pic/test_bit_dollar_%d.png', i)); % بارگذاری تصویر یک بیتی
         combinedImage = combinedImage + bitshift(uint8(bitImage > 0), i); % ترکیب تصاویر
 
         %Step2
@@ -140,14 +140,14 @@ for i = 0:7
         %Step2
     end     
 end
-imwrite(combinedImage, 'pic/test_combined_dollar_2_4_6_8.bmp');
+imwrite(combinedImage, 'pic/test_combined_dollar_2_4_6_8.png');
 %test 3
 combinedImage = zeros(size(I), 'uint8');
 str_title='';
 for i = 0:7
     s=s+1;
     if(i==5 || i==6 || i==7)
-        bitImage = imread(sprintf('pic/test_bit_dollar_%d.bmp', i)); % بارگذاری تصویر یک بیتی
+        bitImage = imread(sprintf('pic/test_bit_dollar_%d.png', i)); % بارگذاری تصویر یک بیتی
         combinedImage = combinedImage + bitshift(uint8(bitImage > 0), i); % ترکیب تصاویر
 
         %Step2
@@ -158,4 +158,4 @@ for i = 0:7
         %Step2
     end     
 end
-imwrite(combinedImage, 'pic/test_combined_dollar_6_7_8.bmp');
+imwrite(combinedImage, 'pic/test_combined_dollar_6_7_8.png');
