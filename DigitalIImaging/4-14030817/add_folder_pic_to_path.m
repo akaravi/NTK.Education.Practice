@@ -13,4 +13,5 @@ subfolders = genpath(folder_path);
 addpath(subfolders);
 
 % نمایش پیام تایید
-fprintf('فولدر و ساب‌فولدرها به مسیر جستجو اضافه شدند: \n%s\n', subfolders);
+fprintf('فولدر  به مسیر جستجو اضافه شدند: \n%s\n', folder_path);
+fprintf(' ساب‌فولدرها به مسیر جستجو اضافه شدند: \n%s\n', subfolders);
