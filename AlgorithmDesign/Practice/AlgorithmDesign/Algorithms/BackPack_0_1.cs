@@ -3,8 +3,26 @@ using System.Collections.Generic;
 
 public class KnapsackProblem
 {
-    // تابعی برای حل مسئله کوله‌پشتی
-    public static (int maxValue, List<int> selectedItems) Knapsack(int[] weights, int[] values, int capacity)
+	public static void run()
+	{
+
+		// وزن‌ها و ارزش‌های اقلام
+		int[] weights = { 5, 15, 9, 10, 30 };
+		int[] values = { 30, 60, 27, 20, 30 };
+		int capacity = 21;
+
+		// حل مسئله و دریافت خروجی
+		var result = Knapsack(weights, values, capacity);
+		Console.WriteLine($"حداکثر ارزش قابل حمل: {result.maxValue}");
+		Console.WriteLine("کالاهای انتخاب شده:");
+		foreach (var item in result.selectedItems)
+		{
+			Console.WriteLine($"کالا با ایندکس: {item}");
+		}
+
+	}
+	// تابعی برای حل مسئله کوله‌پشتی
+	public static (int maxValue, List<int> selectedItems) Knapsack(int[] weights, int[] values, int capacity)
     {
         int n = values.Length;
         // ایجاد یک جدول برای ذخیره‌سازی حداکثر ارزش‌ها
@@ -47,20 +65,4 @@ public class KnapsackProblem
         return (K[n, capacity], selectedItems);
     }
 
-    //static void Main(string[] args)
-    //{
-    //    // وزن‌ها و ارزش‌های اقلام
-    //    int[] weights = {5, 15, 9, 10,30 };
-    //    int[] values = { 30, 60, 27, 20,30};
-    //    int capacity = 21;
-
-    //    // حل مسئله و دریافت خروجی
-    //    var result = Knapsack(weights, values, capacity);
-    //    Console.WriteLine($"حداکثر ارزش قابل حمل: {result.maxValue}");
-    //    Console.WriteLine("کالاهای انتخاب شده:");
-    //    foreach (var item in result.selectedItems)
-    //    {
-    //        Console.WriteLine($"کالا با ایندکس: {item}");
-    //    }
-    //}
 }

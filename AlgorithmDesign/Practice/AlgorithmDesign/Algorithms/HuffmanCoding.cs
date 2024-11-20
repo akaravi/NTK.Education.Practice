@@ -20,34 +20,37 @@ public class Node
 
 class HuffmanCoding
 {
-	//public static void Main(string[] args)
-	//{
-	//	string input = "this is an example for huffman encoding";
-	//	var frequencyTable = BuildFrequencyTable(input);
-	//	var root = BuildHuffmanTree(frequencyTable);
-	//	var huffmanCodes = new Dictionary<char, string>();
-	//	GenerateHuffmanCodes(root, "", huffmanCodes);
+	public static void run()
+	{
 
-	//	Console.WriteLine("Huffman Codes:");
-	//	foreach (var pair in huffmanCodes)
-	//	{
-	//		Console.WriteLine($"{pair.Key}: {pair.Value}");
-	//	}
 
-	//	// کدگذاری متن ورودی
-	//	string encodedValue = Encode(input, huffmanCodes);
-	//	Console.WriteLine($"\nEncoded Value: {encodedValue}");
+		string input = "this is an example for huffman encoding";
+		Console.WriteLine("input:" + input);
+		var frequencyTable = BuildFrequencyTable(input);
+		var root = BuildHuffmanTree(frequencyTable);
+		var huffmanCodes = new Dictionary<char, string>();
+		GenerateHuffmanCodes(root, "", huffmanCodes);
 
-	//	// معکوس کردن دیکشنری کدهای هافمن
-	//	var reversedHuffmanCodes = ReverseHuffmanCodes(huffmanCodes);
+		Console.WriteLine("Huffman Codes:");
+		foreach (var pair in huffmanCodes)
+		{
+			Console.WriteLine($"{pair.Key}: {pair.Value}");
+		}
 
-	//	// دیکد کردن
-	//	string decodedValue = Decode(encodedValue, reversedHuffmanCodes);
-	//	Console.WriteLine($"\nDecoded Value: {decodedValue}");
-	//}
+		// کدگذاری متن ورودی
+		string encodedValue = Encode(input, huffmanCodes);
+		Console.WriteLine($"\nEncoded Value: {encodedValue}");
+
+		// معکوس کردن دیکشنری کدهای هافمن
+		var reversedHuffmanCodes = ReverseHuffmanCodes(huffmanCodes);
+
+		// دیکد کردن
+		string decodedValue = Decode(encodedValue, reversedHuffmanCodes);
+		Console.WriteLine($"\nDecoded Value: {decodedValue}");
+	}
 
 	// مرحله 1: ساخت جدول فرکانس
-	public static Dictionary<char, int> BuildFrequencyTable(string input)
+		public static Dictionary<char, int> BuildFrequencyTable(string input)
 	{
 		var frequencyTable = new Dictionary<char, int>();
 		foreach (char c in input)
