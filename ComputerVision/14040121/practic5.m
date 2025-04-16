@@ -4,7 +4,11 @@ close all
 % بارگذاری تصویر
 %image = imread('rice.png'); % تصویر مورد نظر را بارگذاری کنید
 image = imread('cameraman.tif'); % بارگذاری تصویر cameraman
+
+% از استاد سوال شود
 image = double(image); % تبدیل به نوع عددی
+%image = im2double(image); % تبدیل به نوع عددی
+
 
 % افزودن نویز نمک و فلفل
 noise_density = 0.05; % چگالی نویز

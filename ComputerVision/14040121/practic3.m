@@ -2,7 +2,7 @@ clc
 clear
 close all
 % بارگذاری تصویر
-image = imread('rice.png');
+image =im2double( imread('rice.png'));
 
 % تعریف سایزهای مختلف برای فیلتر میانگین
 sizes = [3, 5, 7, 9,15]; % سایزهای مختلف برای فیلتر میانگین

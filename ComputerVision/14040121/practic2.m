@@ -2,7 +2,7 @@ clc
 clear
 close all
 % بارگذاری تصویر
-image = imread('rice.png');
+image =im2double( imread('rice.png'));
 
 % تعریف کرنل (فیلتر)
 kernel = [1, 0, -1; 
@@ -20,12 +20,12 @@ complexity = n * m * k * l;
 
 % محاسبه زمان برای همبستگی کامل
 tic; % شروع زمان‌سنجی
-full_correlation = conv2(double(image), kernel, 'full');
+full_correlation = imfilter((image), kernel, 'full');
 full_time = toc; % پایان زمان‌سنجی
 
 % محاسبه زمان برای همبستگی با padding مشابه
 tic; % شروع زمان‌سنجی
-same_correlation = conv2(double(image), kernel, 'same');
+same_correlation = imfilter(double(image), kernel, 'same');
 same_time = toc; % پایان زمان‌سنجی
 
 % نمایش نتایج
