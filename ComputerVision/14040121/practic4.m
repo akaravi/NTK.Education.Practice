@@ -1,41 +1,39 @@
 clc
 clear
 close all
-% بارگذاری تصویر
-%image = imread('rice.png'); % تصویر مورد نظر را بارگذاری کنید
-image = imread('cameraman.tif'); % بارگذاری تصویر cameraman
 
-% تعریف کرنل برای تارشدگی حرکتی
-motion_kernel = fspecial('motion', 20, 45); % طول 20 و زاویه 45 درجه
-motion_blurred_image = imfilter(image, motion_kernel, 'symmetric');
+%image = imread('rice.png');
+image = imread(( 'cameraman.tif'));
 
-% تعریف کرنل برای تارشدگی از طریق فوکوس اشتباه
-focus_kernel = fspecial('gaussian', [5 5], 2); % کرنل Gaussian
-focus_blurred_image = imfilter(image, focus_kernel, 'symmetric');
+%تارشدگی جرکتی
+filter1 = fspecial('motion', 20, 45); % طول 20 و زاویه 45 درجه
+img1 = imfilter(image, filter1, 'symmetric');
 
-% تعریف کرنل برای تارشدگی در اثر شرایط جوی
-weather_kernel = fspecial('average', [5 5]); % کرنل میانگین
-weather_blurred_image = imfilter(image, weather_kernel, 'symmetric');
+% مشکل فوکوس
+Filter2 = fspecial('gaussian', [5 5], 2);
+img2 = imfilter(image, Filter2, 'symmetric');
 
-% نمایش تصاویر
+%تارشدگی جوی
+filter3 = fspecial('average', [5 5]); 
+img3 = imfilter(image, filter3, 'symmetric');
+
 figure;
-
 subplot(2, 2, 1);
 imshow(image);
 title('تصویر اصلی');
 axis off;
 
 subplot(2, 2, 2);
-imshow(motion_blurred_image);
+imshow(img1);
 title('تارشدگی حرکتی');
 axis off;
 
 subplot(2, 2, 3);
-imshow(focus_blurred_image);
+imshow(img2);
 title('تارشدگی فوکوس اشتباه');
 axis off;
 
 subplot(2, 2, 4);
-imshow(weather_blurred_image);
+imshow(img3);
 title('تارشدگی شرایط جوی');
 axis off;

@@ -2,29 +2,25 @@ clc
 clear
 close all
 % بارگذاری تصویر
-%image = imread('rice.png'); % تصویر مورد نظر را بارگذاری کنید
-image = imread('cameraman.tif'); % بارگذاری تصویر cameraman
+%image = imread('rice.png');
+image = imread('cameraman.tif');
 
 % از استاد سوال شود
-image = double(image); % تبدیل به نوع عددی
-%image = im2double(image); % تبدیل به نوع عددی
+%image = double(image);
+%image = im2double(image);
 
-
-% افزودن نویز نمک و فلفل
-noise_density = 0.05; % چگالی نویز
+%step1
+noise_density = 0.05; 
 noisy_image = imnoise(uint8(image), 'salt & pepper', noise_density);
 
-% تعریف کرنل برای فیلتر Gaussian
 sigma = 2; % انحراف معیار
-kernel_size = 5; % اندازه کرنل
-gaussian_kernel = fspecial('gaussian', [kernel_size, kernel_size], sigma);
+filter_size = 5; % اندازه کرنل
+filter = fspecial('gaussian', [filter_size, filter_size], sigma);
 
-% هموار کردن تصویر با فیلتر Gaussian
-smoothed_image = imfilter(noisy_image, gaussian_kernel, 'replicate');
+%step2
+smoothed_image = imfilter(noisy_image, filter, 'replicate');
 
-% نمایش تصاویر
 figure;
-
 subplot(1, 3, 1);
 imshow(uint8(image), []);
 title('تصویر اصلی');
