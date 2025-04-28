@@ -8,8 +8,8 @@ karaviImg = imread('cameraman.tif');
 Gx = fspecial('sobel');
 Gy = Gx';
 
-gradientX = imfilter(double(karaviImg), Gx, 'replicate');
-gradientY = imfilter(double(karaviImg), Gy, 'replicate');
+gradientX = imfilter(im2double(karaviImg), Gx, 'replicate');
+gradientY = imfilter(im2double(karaviImg), Gy, 'replicate');
 
 % محاسبه اندازه و جهت بردار گرادیان
 magnitude = sqrt(gradientX.^2 + gradientY.^2);

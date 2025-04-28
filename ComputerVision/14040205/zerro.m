@@ -3,7 +3,7 @@ close all;
 clear;
 myImmg = imread('cameraman.tif');
 laplacianFilter = fspecial('laplacian', 0);
-kImgF = imfilter(double(myImmg), laplacianFilter, 'replicate');
+kImgF = imfilter(im2double(myImmg), laplacianFilter, 'replicate');
 
 [rows, cols] = size(kImgF);
 zeroCrossing = zeros(rows, cols);
@@ -23,5 +23,5 @@ imshow(myImmg);
 title('Original Image - Cameraman');
 
 subplot(1, 2, 2);
-imshow(zeroCrossing, []);
+imshow(zeroCrossing);
 title('Zero Crossing Points');
