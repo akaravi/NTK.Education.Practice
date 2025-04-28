@@ -1,0 +1,528 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
+  <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=7;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=7;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="2" target="Lf02gltnuJ-3RL5vWaI2-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=7;" edge="1" parent="1" source="2" target="Lf02gltnuJ-3RL5vWaI2-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=7;" edge="1" parent="1" source="2" target="Lf02gltnuJ-3RL5vWaI2-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-233" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=7;exitX=0.019;exitY=0.884;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2" target="Lf02gltnuJ-3RL5vWaI2-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=7;exitX=0.991;exitY=0.866;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2" target="Lf02gltnuJ-3RL5vWaI2-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=7;exitX=0.025;exitY=0.914;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2" target="Lf02gltnuJ-3RL5vWaI2-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=7;exitX=0.975;exitY=0.971;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2" target="Lf02gltnuJ-3RL5vWaI2-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2740" y="827" />
+              <mxPoint x="2740" y="1370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-237" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.452;entryY=0.063;entryDx=0;entryDy=0;strokeWidth=7;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2" target="Lf02gltnuJ-3RL5vWaI2-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2640" y="951" as="sourcePoint" />
+            <mxPoint x="2590" y="1521" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2" value="Artificial Intelligence&#xa;هوش مصنوعی" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2484" y="720" width="256" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=5;" edge="1" parent="1" source="3" target="5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=5;" edge="1" parent="1" source="3" target="13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=5;" edge="1" parent="1" source="3" target="14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=5;" edge="1" parent="1" source="3" target="15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="یادگیری ماشین&#xa;Machine Learning" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="70" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="یادگیری تحت نظارت&#xa;(Supervised Learning)" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="40" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="یادگیری تحت نظارت&#xa;(Supervised Learning)" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="110" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="یادگیری نیمه‌نظارت&#xa;(Semi-Supervised Learning)" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="180" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="1-1  یادگیری&#xa;تقویتی (Reinforcement Learning)" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="250" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-55" target="Lf02gltnuJ-3RL5vWaI2-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-55" target="Lf02gltnuJ-3RL5vWaI2-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-55" target="Lf02gltnuJ-3RL5vWaI2-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-55" target="Lf02gltnuJ-3RL5vWaI2-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-55" target="Lf02gltnuJ-3RL5vWaI2-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2OhWdPiDekRzU1Smcgc-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-55" target="Lf02gltnuJ-3RL5vWaI2-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-55" value="یادگیری عمیق&#xa;Deep Learning" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="460" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-56" target="Lf02gltnuJ-3RL5vWaI2-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-56" target="Lf02gltnuJ-3RL5vWaI2-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-56" target="Lf02gltnuJ-3RL5vWaI2-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-56" target="Lf02gltnuJ-3RL5vWaI2-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-56" target="Lf02gltnuJ-3RL5vWaI2-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-56" target="Lf02gltnuJ-3RL5vWaI2-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-56" target="Lf02gltnuJ-3RL5vWaI2-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-56" target="Lf02gltnuJ-3RL5vWaI2-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-56" target="Lf02gltnuJ-3RL5vWaI2-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-56" target="Lf02gltnuJ-3RL5vWaI2-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-56" value="  پردازش زبان طبیعی&#xa;NLP" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2150" y="670" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-57" target="Lf02gltnuJ-3RL5vWaI2-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-57" target="Lf02gltnuJ-3RL5vWaI2-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-57" target="Lf02gltnuJ-3RL5vWaI2-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-57" target="Lf02gltnuJ-3RL5vWaI2-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-57" target="Lf02gltnuJ-3RL5vWaI2-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-57" target="Lf02gltnuJ-3RL5vWaI2-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-57" target="Lf02gltnuJ-3RL5vWaI2-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-57" target="Lf02gltnuJ-3RL5vWaI2-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-57" target="Lf02gltnuJ-3RL5vWaI2-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-57" value="داده کاوی&#xa;Data Mining" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2840" y="610" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f0a30a;strokeColor=#BD7000;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-58" target="Lf02gltnuJ-3RL5vWaI2-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f0a30a;strokeColor=#BD7000;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-58" target="Lf02gltnuJ-3RL5vWaI2-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f0a30a;strokeColor=#BD7000;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-58" target="Lf02gltnuJ-3RL5vWaI2-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f0a30a;strokeColor=#BD7000;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-58" target="Lf02gltnuJ-3RL5vWaI2-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f0a30a;strokeColor=#BD7000;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-58" target="Lf02gltnuJ-3RL5vWaI2-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f0a30a;strokeColor=#BD7000;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-58" target="Lf02gltnuJ-3RL5vWaI2-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f0a30a;strokeColor=#BD7000;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-58" target="Lf02gltnuJ-3RL5vWaI2-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f0a30a;strokeColor=#BD7000;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-58" target="Lf02gltnuJ-3RL5vWaI2-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f0a30a;strokeColor=#BD7000;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-58" target="Lf02gltnuJ-3RL5vWaI2-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-58" value="منطق فازی&#xa;Fuzzy Logic" style="rounded=1;fillColor=#f0a30a;strokeColor=#BD7000;shadow=1;fontStyle=1;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2860" y="790" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#76608a;strokeColor=#432D57;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-59" target="Lf02gltnuJ-3RL5vWaI2-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#76608a;strokeColor=#432D57;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-59" target="Lf02gltnuJ-3RL5vWaI2-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#76608a;strokeColor=#432D57;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-59" target="Lf02gltnuJ-3RL5vWaI2-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#76608a;strokeColor=#432D57;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-59" target="Lf02gltnuJ-3RL5vWaI2-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#76608a;strokeColor=#432D57;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-59" target="Lf02gltnuJ-3RL5vWaI2-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#76608a;strokeColor=#432D57;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-59" target="Lf02gltnuJ-3RL5vWaI2-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#76608a;strokeColor=#432D57;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-59" target="Lf02gltnuJ-3RL5vWaI2-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#76608a;strokeColor=#432D57;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-59" target="Lf02gltnuJ-3RL5vWaI2-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2OhWdPiDekRzU1Smcgc-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#76608a;strokeColor=#432D57;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-59" target="Lf02gltnuJ-3RL5vWaI2-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-59" value="رباتیک &#xa;Robotics" style="rounded=1;fillColor=#76608a;strokeColor=#432D57;shadow=1;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="1260" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-60" target="Lf02gltnuJ-3RL5vWaI2-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-60" target="Lf02gltnuJ-3RL5vWaI2-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-60" target="Lf02gltnuJ-3RL5vWaI2-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-60" target="Lf02gltnuJ-3RL5vWaI2-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-60" target="Lf02gltnuJ-3RL5vWaI2-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-60" target="Lf02gltnuJ-3RL5vWaI2-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-60" target="Lf02gltnuJ-3RL5vWaI2-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-60" target="Lf02gltnuJ-3RL5vWaI2-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-60" value="بینایی ماشین&#xa;Computer Vision" style="rounded=1;fillColor=#6d8764;strokeColor=#3A5431;shadow=1;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2900" y="1340" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-61" target="Lf02gltnuJ-3RL5vWaI2-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-61" target="Lf02gltnuJ-3RL5vWaI2-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-61" target="Lf02gltnuJ-3RL5vWaI2-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-61" target="Lf02gltnuJ-3RL5vWaI2-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-61" target="Lf02gltnuJ-3RL5vWaI2-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-61" target="Lf02gltnuJ-3RL5vWaI2-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-61" target="Lf02gltnuJ-3RL5vWaI2-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-61" target="Lf02gltnuJ-3RL5vWaI2-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-61" value="علم داده &#xa;Data Science" style="rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2502" y="1360" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-62" target="Lf02gltnuJ-3RL5vWaI2-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-62" target="Lf02gltnuJ-3RL5vWaI2-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-62" target="Lf02gltnuJ-3RL5vWaI2-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-62" target="Lf02gltnuJ-3RL5vWaI2-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-62" target="Lf02gltnuJ-3RL5vWaI2-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-62" target="Lf02gltnuJ-3RL5vWaI2-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-62" value="سیستم خبره&#xa;Expert System" style="rounded=1;fillColor=#1ba1e2;strokeColor=#006EAF;shadow=1;fontStyle=1;fontColor=#ffffff;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="780" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-73" value="شبکه‌های عصبی کانولوشنی&#xa; (Convolutional Neural Networks - CNNs)" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2850" y="40" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-74" value="شبکه‌های عصبی بازگشتی &#xa;(Recurrent Neural Networks - RNNs)" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2850" y="110" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-75" value="شبکه‌های عصبی طولانی-کوتاه‌مدت &#xa;(Long Short-Term Memory -&#xa;LSTM)" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2850" y="180" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-76" value=" شبکه‌های عصبی عمیق&#xa; (Deep Neural Networks - DNNs)" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2850" y="250" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-77" value="شبکه‌های مولد رقابتی &#xa;(Generative Adversarial Networks - GANs)" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2850" y="320" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-78" value="مدل‌های ترنسفورمر &#xa;(Transformers)" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2850" y="390" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-79" value="یادگیری عمیق تقویتی &#xa;(Deep Reinforcement Learning)" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2850" y="460" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.369;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-55" target="Lf02gltnuJ-3RL5vWaI2-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-81" value="تحلیل نحوی&#xa;(Syntactic Analysis)" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="40" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-83" value="تحلیل معنایی&#xa;(Semantic Analysis)" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="110" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-91" value="چت‌بات‌ها&#xa;و تعاملات انسانی-کامپیوتری &#xa;(Chatbots and Human-Computer Interaction)" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="670" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-92" value="مدل‌های زبانی&#xa;(Language Modeling)" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="600" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-93" value="تحلیل گفتار&#xa;(Speech Analysis)" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="530" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-94" value="ترجمه ماشینی&#xa;(Machine Translation)" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="460" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-95" value="خلاصه‌سازی متن (Text&#xa;Summarization)" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="390" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-96" value="تولید زبان طبیعی&#xa;(Natural Language Generation - NLG)" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="320" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-97" value="تحلیل احساسی&#xa;(Sentiment Analysis)" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="250" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-98" value="تشخیص موجودیت‌های نام‌گذاری شده &#xa;(Named Entity Recognition - NER)" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="180" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-100" value="یادگیری نظارت‌شده&#xa;(Supervised Learning)" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="40" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-102" value="تحلیل انحراف&#xa;(Anomaly Detection)" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="600" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-103" value="تحلیل شبکه&#xa;(Network Analysis)" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="530" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-104" value="تحلیل متن (Text&#xa;Mining)" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="460" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-105" value="تحلیل سری زمانی (Time&#xa;Series Analysis)" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="390" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-106" value="خوشه‌بندی&#xa;(Clustering)" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="320" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-107" value="تحلیل وابستگی&#xa;(Association Rule Learning)" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="250" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-108" value="یادگیری نیمه‌نظارت شده&#xa;(Semi-Supervised Learning)" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="180" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-109" value="یادگیری بدون نظارت&#xa;(Unsupervised Learning)" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="110" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-110" value="سیستم‌های خبره مبتنی بر قوانین &#xa;(Rule-Based Expert Systems)" style="rounded=1;fillColor=#1ba1e2;strokeColor=#006EAF;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="780" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-111" value="سیستم‌های خبره مبتنی بر استدلال &#xa;(Frame-Based Expert Systems)" style="rounded=1;fillColor=#1ba1e2;strokeColor=#006EAF;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="850" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-112" value="سیستم‌های خبره مبتنی بر شبکه‌های بیزی &#xa;(Bayesian Expert Systems)" style="rounded=1;fillColor=#1ba1e2;strokeColor=#006EAF;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="920" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-113" value="سیستم‌های خبره مبتنی بر اطلاعات &#xa;(Fuzzy Expert Systems)" style="rounded=1;fillColor=#1ba1e2;strokeColor=#006EAF;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="990" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-114" value="سیستم‌های خبره مبتنی بر یادگیری ماشین &#xa;(Machine Learning-Based Expert Systems)" style="rounded=1;fillColor=#1ba1e2;strokeColor=#006EAF;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="1060" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-115" value="سیستم‌های خبره تلفیقی&#xa;(Hybrid Expert Systems)" style="rounded=1;fillColor=#1ba1e2;strokeColor=#006EAF;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="1130" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-118" value="منطق فازی کلاسیک&#xa;(Classic Fuzzy Logic)" style="rounded=1;fillColor=#f0a30a;strokeColor=#BD7000;shadow=1;fontStyle=1;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="680" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-119" value="تحلیل و پردازش داده‌های فازی &#xa;(Fuzzy Data Processing)" style="rounded=1;fillColor=#f0a30a;strokeColor=#BD7000;shadow=1;fontStyle=1;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="1100" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-120" value="سیستم‌های فازی مبتنی بر یادگیری &#xa;(Fuzzy Learning Systems)" style="rounded=1;fillColor=#f0a30a;strokeColor=#BD7000;shadow=1;fontStyle=1;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="1030" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-121" value="تحلیل تصمیم‌گیری فازی&#xa;(Fuzzy Decision Making)" style="rounded=1;fillColor=#f0a30a;strokeColor=#BD7000;shadow=1;fontStyle=1;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="960" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-122" value="سیستم‌های خبره فازی&#xa;(Fuzzy Expert Systems)" style="rounded=1;fillColor=#f0a30a;strokeColor=#BD7000;shadow=1;fontStyle=1;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="890" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-123" value="کنترل فازی&#xa;(Fuzzy Control)" style="rounded=1;fillColor=#f0a30a;strokeColor=#BD7000;shadow=1;fontStyle=1;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="820" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-124" value="منطق فازی ترکیبی&#xa;(Hybrid Fuzzy Logic)" style="rounded=1;fillColor=#f0a30a;strokeColor=#BD7000;shadow=1;fontStyle=1;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="750" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-126" value="مدل‌سازی فازی&#xa;(Fuzzy Modeling)" style="rounded=1;fillColor=#f0a30a;strokeColor=#BD7000;shadow=1;fontStyle=1;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="1170" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-127" value="منطق فازی چند معیاره&#xa;(Multi-Criteria Fuzzy Logic)" style="rounded=1;fillColor=#f0a30a;strokeColor=#BD7000;shadow=1;fontStyle=1;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="1240" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-128" value="رباتیک صنعتی&#xa;(Industrial Robotics)" style="rounded=1;fillColor=#76608a;strokeColor=#432D57;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="1260" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-129" value="رباتیک میکرو&#xa;(Micro Robotics)" style="rounded=1;fillColor=#76608a;strokeColor=#432D57;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="1890" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-130" value="رباتیک اجتماعی&#xa;(Social Robotics)" style="rounded=1;fillColor=#76608a;strokeColor=#432D57;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="1820" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-131" value="رباتیک کشاورزی&#xa;(Agricultural Robotics)" style="rounded=1;fillColor=#76608a;strokeColor=#432D57;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="1750" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-132" value="رباتیک هوشمند&#xa;(Intelligent Robotics)" style="rounded=1;fillColor=#76608a;strokeColor=#432D57;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="1680" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-133" value="رباتیک فضایی&#xa;(Space Robotics)" style="rounded=1;fillColor=#76608a;strokeColor=#432D57;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="1610" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-134" value="رباتیک پزشکی&#xa;(Medical Robotics)" style="rounded=1;fillColor=#76608a;strokeColor=#432D57;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="1540" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-135" value="رباتیک انسان‌نما&#xa;(Humanoid Robotics)" style="rounded=1;fillColor=#76608a;strokeColor=#432D57;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="1470" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-136" value="رباتیک خودران&#xa;(Autonomous Robotics)" style="rounded=1;fillColor=#76608a;strokeColor=#432D57;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="1400" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-137" value="رباتیک خدمت‌گزار&#xa;(Service Robotics)" style="rounded=1;fillColor=#76608a;strokeColor=#432D57;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="1330" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-138" value="تحلیل تصویر&#xa;(Image Analysis)" style="rounded=1;fillColor=#6d8764;strokeColor=#3A5431;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="1340" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-139" value="تجزیه و تحلیل تصویر در زمان واقعی&#xa; (Real-Time Image Processing)" style="rounded=1;fillColor=#6d8764;strokeColor=#3A5431;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="1970" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-140" value="بینایی ماشین پزشکی&#xa;(Medical Imaging)" style="rounded=1;fillColor=#6d8764;strokeColor=#3A5431;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="1900" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-141" value="پردازش ویدئو&#xa;(Video Processing)" style="rounded=1;fillColor=#6d8764;strokeColor=#3A5431;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="1830" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-142" value="بینایی ماشین برای رباتیک&#xa;(Robotic Vision)" style="rounded=1;fillColor=#6d8764;strokeColor=#3A5431;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="1760" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-143" value="تشخیص و ردیابی&#xa;(Detection and Tracking)" style="rounded=1;fillColor=#6d8764;strokeColor=#3A5431;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="1690" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-144" value="بازسازی سه‌بعدی (3D&#xa;Reconstruction)" style="rounded=1;fillColor=#6d8764;strokeColor=#3A5431;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="1620" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-145" value="تحلیل حرکت&#xa;(Motion Analysis)" style="rounded=1;fillColor=#6d8764;strokeColor=#3A5431;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="1550" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-146" value="شناسایی چهره (Face&#xa;Recognition)" style="rounded=1;fillColor=#6d8764;strokeColor=#3A5431;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="1480" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-147" value="تشخیص اشیاء&#xa;(Object Detection)" style="rounded=1;fillColor=#6d8764;strokeColor=#3A5431;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="1410" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-148" value="تحلیل داده (Data&#xa;Analysis)" style="rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="1350" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-149" value="تحلیل داده‌های جغرافیایی&#xa;(Geospatial Data Analysis)" style="rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="1980" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-150" value="تحلیل داده‌های پزشکی&#xa;(Medical Data Analysis)" style="rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="1910" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-151" value="تحلیل متنی (Text&#xa;Analytics)" style="rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="1840" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-152" value="تحلیل داده‌های زمانی (Time&#xa;Series Analysis)" style="rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="1770" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-153" value="علم داده‌های اجتماعی&#xa;(Social Data Science)" style="rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="1700" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-154" value="تجسم داده (Data&#xa;Visualization)" style="rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="1630" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-155" value="مدل‌سازی داده (Data&#xa;Modeling)" style="rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="1560" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-156" value="تحلیل داده‌های کلان (Big&#xa;Data Analytics)" style="rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="1490" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-157" value="یادگیری ماشین&#xa;(Machine Learning)" style="rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontStyle=1;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="1420" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.016;entryY=0.495;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-60" target="Lf02gltnuJ-3RL5vWaI2-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.442;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-60" target="Lf02gltnuJ-3RL5vWaI2-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.996;entryY=0.586;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#76608a;strokeColor=#432D57;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-59" target="Lf02gltnuJ-3RL5vWaI2-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.999;entryY=0.626;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d80073;strokeColor=#A50040;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-61" target="Lf02gltnuJ-3RL5vWaI2-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf02gltnuJ-3RL5vWaI2-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;strokeWidth=5;" edge="1" parent="1" source="Lf02gltnuJ-3RL5vWaI2-61" target="Lf02gltnuJ-3RL5vWaI2-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2OhWdPiDekRzU1Smcgc-42" value="درخت دانش هوش مصنوعی&lt;div&gt;گرد آورنده: علیرضا کاروی&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="1980" width="140" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
