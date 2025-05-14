@@ -25,10 +25,10 @@ threshold = 0.1 * max(laplacian_image(:));
 edges_marr_hildreth = abs(laplacian_image) > threshold; 
 
 
-edges_edge = edge(uint8(imgf), 'log');
+edge_Main = edge(imgf, 'log');
 
 
 figure;
 subplot(2, 3, 1), imshow(uint8(imgf)), title('Original Image');
 subplot(2, 3, 2), imshow(edges_marr_hildreth), title('Edges (Marr-Hildreth - Manual)');
-subplot(2, 3, 3), imshow(edges_edge), title('Edges (Marr-Hildreth - Edge)');
+subplot(2, 3, 3), imshow(edge_Main), title('Edges (Marr-Hildreth - Edge)');

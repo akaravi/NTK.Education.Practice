@@ -10,11 +10,11 @@
 clc;
 close all;
 clear;
-
+t=0.5;
 f = imread('cameraman.tif');
 imgf = double(f);
 %imgf= im2double(f)% بااین کلیه تصاویر سیاه می شود 
-laplacian_filter = fspecial('laplacian', 0.5);
+laplacian_filter = fspecial('laplacian', t);
 laplacian_f = imfilter(imgf, laplacian_filter);
 g = imgf + laplacian_f;
 
@@ -41,7 +41,7 @@ n = C * (n .^ gamma);
 
 % نمایش نتایج
 figure;
-subplot(2, 3, 1), imshow(uint8(imgf)), title('Original');
+subplot(2, 3, 1), imshow(f), title('Original');
 subplot(2, 3, 2), imshow(uint8(g)), title('Sharpened');
 subplot(2, 3, 3), imshow(uint8(k)), title('Gradient');
 subplot(2, 3, 4), imshow(uint8(l)), title('Blurred');
