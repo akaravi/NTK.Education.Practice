@@ -26,21 +26,21 @@ img_sharpened = img_double + img_final; % ترکیب تصویر
 
 
 figure;
-subplot(3, 3, 1), imshow(img_gray), title('Original Image');
-subplot(3, 3, 2), imshow(log(1 + abs(F_shifted)), []), title('Frequency Domain');
-subplot(3, 3, 3), imshow(log(1 + abs(F_filtered)), []), title('Frequency by Filter Domain');
-subplot(3, 3, 4), imshow(img_final, []), title('Filtered Image');
-subplot(3, 3, 5), imshow(img_sharpened, []), title('Sharpened Image');
+subplot(2, 4, 1), imshow(img_gray), title('Original Image');
+subplot(2, 4, 2), imshow(log(1 + abs(F_shifted)), []), title('Frequency Domain');
+subplot(2, 4, 3), imshow(log(1 + abs(F_filtered)), []), title('Frequency by Filter Domain');
+subplot(2, 4, 4), imshow(img_final, []), title('Filtered Image');
+subplot(2, 4, 5), imshow(img_sharpened, []), title('Sharpened Image');
 
 % رسم هیستوگرام‌ها
-subplot(3, 3, 7); 
+subplot(2, 4, 7); 
 imhist(im2uint8( img_double), 256);
 title('Histogram Original');
 legend('Original Image');
 xlabel('Pixel Intensity');
 ylabel('Frequency');
 % رسم هیستوگرام‌ها
-subplot(3, 3, 8); 
+subplot(2, 4, 8); 
 imhist(im2uint8(img_sharpened), 256);
 title('Histogram Sharpened');
 legend( 'Sharpened Image');
