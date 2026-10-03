@@ -338,6 +338,10 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+# Graphify local knowledge graph
+graphify-out/
+**/graphify-out/
+
 # --- karavi ---
 karavi/karavi.temp.logs/
 karavi/karavi.temp.status/
@@ -346,4 +350,5 @@ karavi/karavi.temp.build/
 karavi/karavi.deploy.config/Deploy_FTP.info
 karavi/karavi.deploy.config/Deploy_TestUsers.info
 karavi/karavi.deploy.config/deploy.secrets.json
-graphify-out/
+.omp/
+.freebuff/
